@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Rafael
+
+**Senior Software Engineer | Cloud & Backend Specialist | Event-Driven Architectures**
+
+---
+
+### 🚀 About Me
+
+I'm a passionate Senior Software Engineer with a strong focus on cloud-native backend systems and event-driven architectures. I love building robust, scalable solutions that power modern applications.
+
+---
+
+### 🛠️ Top Skills
+
+- **PHP / Symfony**
+- **NodeJS / Typescript**
+- **Python / FastAPI**
+- **Golang**
+- **AWS (Amazon Web Services)**
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafix81/)
+
+---
 
 <!--
-**rafix/rafix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to add a "Projects" section or a fun fact/hobby here for more personalization!
 -->
